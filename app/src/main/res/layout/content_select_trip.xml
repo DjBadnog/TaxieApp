@@ -13,6 +13,7 @@
     tools:showIn="@layout/activity_select_trip"
     android:background="#D3CE7C">
 
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
